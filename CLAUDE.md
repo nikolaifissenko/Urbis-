@@ -43,7 +43,9 @@ Il cliente esistente di golf cart tours di Nikolai (attività freelance separata
 - `legale/costituzione-e-licenze.md` — analisi legale (guida turistica vs esperienza) + checklist costituzione SRLS (per quando si formalizza) + codici ATECO.
 - `legale/agenzia-di-viaggio.md` — licenza di direttore tecnico di agenzia di viaggio (Regione Lazio) che sta prendendo Valeria, costi reali, quando serve davvero.
 - `legale/accordo-soci-e-rischi.md` — rischio "società di fatto" nel lancio lean sotto la partita IVA di Valeria, e bozza di accordo scritto tra Nikolai e Valeria.
-- `business-plan/piano-avvio.md` — piano d'avvio operativo, checklist, decisioni ancora aperte.
+- `legale/scrittura-privata-soci.md` — la scrittura privata vera e propria, pronta da firmare (PDF in `dist/scrittura-privata-soci.pdf`). Ruoli, split utile 50/50, posizione fiscale di Nikolai, proprietà del marchio, scioglimento.
+- `business-plan/piano-avvio.md` — log delle decisioni strategiche di fondo.
+- `business-plan/piano-lancio-immediato.md` — piano operativo decisivo: tre moduli di lancio con prezzi, capitale, ATECO, assicurazione, canale, settimana uno giorno per giorno. Deciso in autonomia da Claude come business manager su richiesta di Nikolai, non un elenco di opzioni aperte.
 - `business-plan/idee-esperienze.md` — lista di idee di servizi/esperienze da offrire.
 - `business-plan/idee-crescita.md` — idee su segmenti, canali e pacchetti oltre il catalogo base, da vagliare più avanti.
 - `brand/identita.md` — palette, tipografia, marchio (lira stilizzata) — link alla tavola completa pubblicata.
