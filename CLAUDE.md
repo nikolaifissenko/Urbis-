@@ -22,6 +22,10 @@ Questo è il filo conduttore di **tutto** il catalogo (`business-plan/idee-esper
 
 **Doppio vantaggio, non solo di marketing:** questa impostazione è anche esattamente ciò che tiene Urbis fuori dalla riserva della guida turistica (Legge 190/2023 — esame nazionale, Elenco Nazionale Guide Turistiche). La riserva scatta sull'**illustrazione e interpretazione strutturata del patrimonio storico/artistico/culturale**; "vivere la routine di un romano" con i monumenti sullo sfondo è per natura accompagnamento/lifestyle, non una lezione di storia dell'arte. Chiamarla "esperienza" non basterebbe da sola (vedi `legale/costituzione-e-licenze.md`) — ma se il contenuto reale resta fedele a questo posizionamento, la distinzione regge davvero, non solo sulla carta.
 
+## Cosa si vende: blocchi di tempo, non attività singole
+
+Deciso (settembre 2026): Urbis vende **pomeriggi, giornate, serate "da romano"**, non attività isolate a listino. Le attività (golf cart, Vespa, Fiat 500, battello sul Tevere, mercato, workshop...) sono **moduli** che compongono il blocco venduto. Dettagli e implicazione legale (un blocco multi-modulo è quasi sempre un pacchetto turistico, rende la licenza di agenzia di viaggio necessaria da subito per questo modello) in `business-plan/idee-esperienze.md`.
+
 ## Prodotto (catalogo esperienze in definizione)
 
 Non solo golf cart: Urbis vende esperienze "vita da romano" a Roma (culinarie, sightseeing leggero, attività locali) — vedi `business-plan/idee-esperienze.md` per la lista di opzioni allo studio, riscritta secondo questo posizionamento. Il golf cart resta un candidato forte (Nikolai ha esperienza diretta), riletto come giro nei quartieri veri che passa anche dai monumenti — non come tour guidato d'arte/storia.
