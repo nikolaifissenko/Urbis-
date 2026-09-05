@@ -41,6 +41,7 @@ Il cliente esistente di golf cart tours di Nikolai (attività freelance separata
 - `legale/accordo-soci-e-rischi.md` — rischio "società di fatto" nel lancio lean sotto la partita IVA di Valeria, e bozza di accordo scritto tra Nikolai e Valeria.
 - `business-plan/piano-avvio.md` — piano d'avvio operativo, checklist, decisioni ancora aperte.
 - `business-plan/idee-esperienze.md` — lista di idee di servizi/esperienze da offrire.
+- `business-plan/idee-crescita.md` — idee su segmenti, canali e pacchetti oltre il catalogo base, da vagliare più avanti.
 - `brand/identita.md` — palette, tipografia, marchio (lira stilizzata) — link alla tavola completa pubblicata.
 
 ## Come lavorare su questo repo

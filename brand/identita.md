@@ -9,6 +9,7 @@ Tavola completa (palette, tipografia, marchio, applicazioni): https://claude.ai/
 | Rosso Pompeiano | `#A63A26` | Primario — sfondi, lockup |
 | Ocra Gialla | `#C68A2E` | Accento — tagline, dettagli |
 | Verderame | `#46644F` | Accento secondario |
+| Porpora Imperiale | `#5C1A45` | Livello premium — esperienze private, su misura |
 | Nero Fumo | `#211714` | Testo, sfondo scuro |
 | Calce | `#F1E4CC` | Carta, testo su scuro |
 
