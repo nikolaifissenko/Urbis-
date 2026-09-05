@@ -47,6 +47,7 @@ Il cliente esistente di golf cart tours di Nikolai (attività freelance separata
 - `business-plan/idee-esperienze.md` — lista di idee di servizi/esperienze da offrire.
 - `business-plan/idee-crescita.md` — idee su segmenti, canali e pacchetti oltre il catalogo base, da vagliare più avanti.
 - `brand/identita.md` — palette, tipografia, marchio (lira stilizzata) — link alla tavola completa pubblicata.
+- `brand/documento-visione.md` — documento condivisibile (mission, posizionamento, catalogo, senza prezzi) — link all'artifact, pensato per essere mandato a Valeria.
 
 ## Come lavorare su questo repo
 
