@@ -18,6 +18,8 @@ Il concetto centrale, deciso da Nikolai: **far vedere ai turisti dove vanno e co
 
 Questo è il filo conduttore di **tutto** il catalogo (`business-plan/idee-esperienze.md`), non una categoria tra le altre — ogni esperienza va scritta e venduta con questa logica.
 
+**Decisione presa e da non riaprire senza motivo:** valutato e scartato un formato "Cicerone" (host che spiega la storia durante bar/food crawl) — il nome stesso segnala guida turistica proprio nel momento in cui si vuole restare fuori da quella riserva. I crawl (bar/aperitivo/food/"serata da romano") restano nel registro "vita da romano": aneddoti brevi, non narrazione strutturata. Se in futuro Nikolai prende l'abilitazione guida turistica o si porta un narratore abilitato esterno, un formato con narrazione vera può esistere come prodotto separato — non va mescolato al resto del catalogo.
+
 **Doppio vantaggio, non solo di marketing:** questa impostazione è anche esattamente ciò che tiene Urbis fuori dalla riserva della guida turistica (Legge 190/2023 — esame nazionale, Elenco Nazionale Guide Turistiche). La riserva scatta sull'**illustrazione e interpretazione strutturata del patrimonio storico/artistico/culturale**; "vivere la routine di un romano" con i monumenti sullo sfondo è per natura accompagnamento/lifestyle, non una lezione di storia dell'arte. Chiamarla "esperienza" non basterebbe da sola (vedi `legale/costituzione-e-licenze.md`) — ma se il contenuto reale resta fedele a questo posizionamento, la distinzione regge davvero, non solo sulla carta.
 
 ## Prodotto (catalogo esperienze in definizione)

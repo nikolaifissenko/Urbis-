@@ -39,9 +39,14 @@ Questi quattro sono il cuore del posizionamento — capex quasi zero, differenzi
 - **Caccia al tesoro nei quartieri storici** — gamification, zero narrazione da guida. Rischio **B**. Capex basso.
 - **Golf cart family tour** — variante pensata per famiglie/anziani (meno cammino).
 
-## Serali / su misura
+## Serali / crawl a tappe
 
-- **Bar-hopping** a Pigneto/San Lorenzo, non Trastevere da cartolina. Rischio **B**.
+Formato multi-tappa (3-4 fermate in una serata) — bar crawl, aperitivo crawl, food crawl, "serata da romano". **Vale la stessa regola del resto del catalogo: aneddoti brevi tra una tappa e l'altra, mai spiegazione storica strutturata.** Deciso esplicitamente (settembre 2026): niente titolo tipo "Cicerone" per l'host — segnala guida turistica proprio quando si vuole restare fuori da quella riserva. Se in futuro entra un narratore abilitato o Nikolai prende l'abilitazione, si può reintrodurre un formato con narrazione vera come prodotto separato, non mescolato a questi.
+
+- **Bar crawl** a Pigneto/San Lorenzo, non Trastevere da cartolina. Rischio **B**.
+- **Aperitivo crawl** — 2-3 locali dove va un romano, non le piazze turistiche. Rischio **B**.
+- **Food crawl** — variante serale del food tour, più locali/street food, meno "lezione", più giro con assaggi. Rischio **B**.
+- **Serata da romano** — format ombrello: aperitivo + cena in un posto vero + eventualmente un ultimo bicchiere, la sequenza di una serata reale, non un itinerario turistico. Rischio **B**.
 - **Esperienze private** (compleanni, proposte di matrimonio, eventi piccoli) — alto margine, su richiesta.
 
 ## Cosa NON fare in casa senza un partner abilitato
