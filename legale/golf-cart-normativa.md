@@ -2,13 +2,27 @@
 
 > ⚖️ A titolo informativo, non parere legale professionale. Situazione normativa in evoluzione attiva a settembre 2026 — verificare aggiornamenti prima del lancio.
 
-## Inquadramento attuale
+## ⚠️ Correzione rispetto alla prima versione di questo documento
 
-I golf cart turistici (come risciò e trenini) sono **"veicoli atipici"**: non esiste una categoria dedicata nel Codice della Strada. Un **decreto ministeriale del 2018** autorizza l'esercizio di questi veicoli atipici. Conseguenza pratica:
+La prima versione diceva "basta la SCIA, non serve una licenza contingentata" come se fosse una via semplice e quasi sempre disponibile. Notizie di stampa più recenti (settembre 2026) e i dati di Roma Capitale ridimensionano parecchio questa lettura:
 
-- **Non serve una licenza comunale contingentata** (a differenza di taxi/NCC).
-- Basta presentare una **SCIA aziendale** (Segnalazione Certificata di Inizio Attività) al Comune.
-- Roma Capitale può opporsi/negare **solo dopo** la presentazione della SCIA, non prima — quindi l'attività può partire ma resta esposta a un eventuale diniego successivo.
+- **Su 34 richieste di SCIA/autorizzazione presentate da operatori commerciali/turistici al dipartimento Mobilità, solo 1 è stata accettata.** Molti operatori continuano comunque a circolare ripresentando la SCIA dopo un diniego, sfruttando una zona grigia procedurale — è una pratica diffusa, ma **non è una posizione legalmente solida**, è tolleranza di fatto.
+- Fonti giornalistiche (Il Messaggero) riportano che il **decreto ministeriale di riferimento per i golf cart fino a 8 posti + conducente è il DM 193/2015** (da verificare il testo esatto con un legale/consulente — la prima versione di questo doc citava erroneamente "2018"), e che inquadra questi mezzi come **attività secondaria collegata a un'attività principale** (es. servizio di un hotel, o servizio aggiuntivo di una guida/agenzia già abilitata) — **non come prodotto autonomo standalone**. Se questo è confermato, un golf cart tour venduto come prodotto a sé, senza essere collegato a un'attività turistica già autorizzata (agenzia di viaggio, guida abilitata, struttura ricettiva), è strutturalmente più debole sul piano legale, indipendentemente dalla SCIA.
+- Questo **rafforza l'opzione "licenza di agenzia di viaggio" già in corso con Valeria** (vedi `agenzia-di-viaggio.md`): se Urbis diventa agenzia di viaggio autorizzata, quella può essere l'"attività principale" a cui agganciare legittimamente il servizio golf cart, invece di provare a farlo reggere da solo come SCIA standalone con alto tasso di rigetto.
+
+## Controlli Guardia di Finanza — cosa chiedono in pratica (settembre 2026)
+
+Notizia diretta: la GdF sta facendo controlli a tappeto sugli operatori golf cart a Roma. Dati riportati dalla stampa: **~200 irregolarità riscontrate** tra gli operatori controllati. Su un campione di 30 controlli mirati alla certificazione dei corrispettivi, **22 (73%) sono finiti in contestazione per mancata memorizzazione elettronica dello scontrino** — di gran lunga la violazione più comune, più della questione "guida turistica" in sé.
+
+**Cosa viene chiesto/verificato sul posto:**
+1. **Patente di guida** del conducente — categoria corretta per l'omologazione del mezzo (vedi sotto), in corso di validità.
+2. **Carta di circolazione del veicolo** — mezzo regolarmente immatricolato/omologato. Se il veicolo non ha i requisiti di legge (non omologato, non immatricolato), è considerato **totalmente abusivo**: conseguenza diretta è **sequestro del mezzo + ritiro della carta di circolazione + sospensione della patente del conducente**.
+3. **Emissione dello scontrino/ricevuta elettronica per il pagamento** — questo è il punto dove viene beccata la maggioranza degli operatori. Ogni corsa pagata deve passare da un sistema di memorizzazione elettronica dei corrispettivi regolare (registratore telematico/POS collegato), non contanti informali. **Priorità operativa numero uno per Urbis, più urgente della questione guida turistica.**
+4. **SCIA presentata al Comune** per l'attività, con percorso dichiarato — e, se confermato il collegamento ad "attività principale" di cui sopra, prova che il servizio non è uno standalone abusivo ma collegato a un'attività turistica autorizzata (agenzia di viaggio, guida abilitata, struttura ricettiva).
+5. **Assicurazione RC** del veicolo in regola.
+6. **Partita IVA/documenti dell'operatore** — la GdF fa anche controlli anti-lavoro sommerso: l'attività deve risultare dichiarata, non un accordo informale/sottobanco con il turista (la stampa segnala esplicitamente "accordi sottobanco coi turisti" come pattern preso di mira).
+
+**Implicazione diretta per il lancio Urbis:** prima ancora di preoccuparsi della linea guida-turistica-vs-esperienza, il rischio concreto e già in corso sul campo è fiscale (scontrino elettronico) e amministrativo (mezzo omologato + SCIA/collegamento ad attività principale in regola). Va risolto per primo.
 
 ## Rischio regolatorio in corso — non è terreno stabile
 
