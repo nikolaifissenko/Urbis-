@@ -37,7 +37,7 @@ Costi 2026 indicativi: SRLS **~€320–800 totali** (nessun onorario notarile p
 8. **Apertura conto corrente bancario** intestato alla società.
 9. **PEC aziendale** obbligatoria.
 10. **INPS**: se uno o entrambi i soci lavorano operativamente nella società (non solo capitale), verificare iscrizione gestione commercianti/altra gestione con il commercialista.
-11. **SCIA attività specifica** al Comune (Roma Capitale) per l'attività di golf cart — vedi `legale/golf-cart-normativa.md`.
+11. **SCIA attività specifica** al Comune (Roma Capitale), se l'esperienza prevede golf cart — normativa e controlli GdF dettagliati in repo `golf-cart-tours` (`normativa-e-controlli.md`).
 12. **Assicurazione RC** — vedi sezione 4.
 13. **Regime IVA/fiscale**: SRLS è sempre in contabilità ordinaria (niente forfettario, quello è solo per ditte individuali/persone fisiche) — va messo in conto nel budget (contabilità più costosa di una partita IVA forfettaria).
 
@@ -58,7 +58,7 @@ La scelta ATECO finale va fatta con un commercialista che conosca il settore tur
 
 Rischi da coprire, indipendenti dalla questione guida turistica:
 - **RC verso terzi/clienti** per l'attività in generale (infortunio durante l'esperienza).
-- **RC auto specifica per il golf cart** — se il mezzo è omologato (categoria L7e o M1) serve assicurazione RC auto come per qualunque veicolo a motore; se non omologato la questione assicurativa è più incerta e rischiosa (vedi `legale/golf-cart-normativa.md`) — comunque da assicurare, mai operare scoperti.
+- **RC auto specifica per il golf cart** (se l'esperienza lo prevede) — se il mezzo è omologato (categoria L7e o M1) serve assicurazione RC auto come per qualunque veicolo a motore; se non omologato la questione assicurativa è più incerta e rischiosa — comunque da assicurare, mai operare scoperti.
 - **Liberatoria/waiver firmata dai clienti** prima dell'attività (limita ma non azzera la responsabilità — l'RC resta necessaria).
 - **Tutela legale** per la società, utile vista l'area grigia normativa.
 

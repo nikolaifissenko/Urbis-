@@ -22,11 +22,11 @@ Urbis vende **esperienze**, non **tour guidati**. Non è un dettaglio di marketi
 
 Quindi: chiamare l'offerta "esperienza" e non "tour" non basta da solo. Quello che l'host dice e fa durante il giro deve restare dal lato "accompagnamento/attività", non diventare una lezione di storia dell'arte. Dettagli in `legale/costituzione-e-licenze.md`.
 
-## Prodotto core (attuale ipotesi di lavoro)
+## Prodotto (catalogo esperienze in definizione)
 
-Giri in golf cart a Roma come attività (guida del mezzo, itinerario, assistenza), non come tour guidato d'arte/storia. Il cliente esistente di golf cart tours di Nikolai (attività freelance separata, vedi repo `golf-cart-tours`) **non viene assorbito**: Urbis è un brand e un'attività nuova e distinta — Nikolai valuta se e come mantenere il rapporto freelance separato.
+Non solo golf cart: Urbis vende esperienze turistiche a Roma in generale (culinarie, sightseeing leggero, attività locali) — vedi `business-plan/idee-esperienze.md` per la lista di opzioni allo studio. Il golf cart resta un candidato forte (Nikolai ha esperienza diretta), come attività (guida del mezzo, itinerario, assistenza), non come tour guidato d'arte/storia.
 
-Golf cart a Roma sono "veicoli atipici" (nessuna categoria dedicata nel Codice della Strada), operabili tramite SCIA aziendale — ma sotto pressione normativa crescente (mozione Roma Capitale dic. 2025, iniziative regionali in corso). Dettagli in `legale/golf-cart-normativa.md`.
+Il cliente esistente di golf cart tours di Nikolai (attività freelance separata, vedi repo `golf-cart-tours`) **non viene assorbito**: Urbis è un brand e un'attività nuova e distinta. Normativa golf cart specifica (SCIA, controlli GdF, omologazione veicoli) tenuta nel repo `golf-cart-tours` (`normativa-e-controlli.md`), perché riguarda anche quell'attività freelance, non solo Urbis — se/quando Urbis lancia un'esperienza in golf cart, consultare quel file.
 
 ## Struttura giuridica — fase attuale vs obiettivo
 
@@ -37,10 +37,10 @@ Golf cart a Roma sono "veicoli atipici" (nessuna categoria dedicata nel Codice d
 ## File in questo repo
 
 - `legale/costituzione-e-licenze.md` — analisi legale (guida turistica vs esperienza) + checklist costituzione SRLS (per quando si formalizza) + codici ATECO.
-- `legale/golf-cart-normativa.md` — normativa specifica golf cart a Roma (SCIA, ZTL, omologazione, rischio regolatorio).
+- `legale/agenzia-di-viaggio.md` — licenza di direttore tecnico di agenzia di viaggio (Regione Lazio) che sta prendendo Valeria, costi reali, quando serve davvero.
 - `legale/accordo-soci-e-rischi.md` — rischio "società di fatto" nel lancio lean sotto la partita IVA di Valeria, e bozza di accordo scritto tra Nikolai e Valeria.
 - `business-plan/piano-avvio.md` — piano d'avvio operativo, checklist, decisioni ancora aperte.
-- `marketing/piano-lancio.md` — posizionamento, canali, primi contenuti.
+- `business-plan/idee-esperienze.md` — lista di idee di servizi/esperienze da offrire.
 
 ## Come lavorare su questo repo
 

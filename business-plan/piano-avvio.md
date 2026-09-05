@@ -21,7 +21,7 @@ Stato: settembre 2026, pre-costituzione.
 1. **Agenzia di viaggio: subito o dopo?** Decisione strategica — vedi `legale/agenzia-di-viaggio.md` per il confronto costi/benefici tra le due strade.
 2. **Capitale**: anche nel lancio lean, mettere in conto i costi reali che emergono sopra (corso, eventuale sede, fideiussione, contributi INPS gestione commercianti se scattano) — non è davvero zero.
 3. **Sede fisica**: se si va sull'agenzia di viaggio, serve un locale con planimetria/agibilità — dove?
-4. **Golf cart — comprare o noleggiare**: budget e scelta del fornitore (solo mezzi omologati L7e/M1, vedi `legale/golf-cart-normativa.md`).
+4. **Golf cart — comprare o noleggiare**: budget e scelta del fornitore (solo mezzi omologati L7e/M1). Normativa golf cart, controlli GdF e SCIA: vedi repo `golf-cart-tours` (`normativa-e-controlli.md`) — tenuto separato perché riguarda anche l'attività freelance esistente di Nikolai, non solo Urbis.
 5. **Prime esperienze da lanciare**: solo golf cart, o anche altro?
 6. **Timeline di lancio**: data obiettivo per la prima esperienza vendibile.
 7. **Canali di vendita**: sito proprio, GetYourGuide/Airbnb Experiences (come già per golf cart tours e Rasna), o entrambi?
