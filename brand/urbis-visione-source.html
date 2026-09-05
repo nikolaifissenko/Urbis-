@@ -1,0 +1,270 @@
+<title>Urbis: Visione</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=Fraunces:ital,opsz,wght@0,9..144,340..600;1,9..144,340..500&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+  :root{
+    --ink:#211714;
+    --ink-soft:#3a2a24;
+    --paper:#f1e4cc;
+    --paper-dim:#e2d2ac;
+    --pompeian:#a63a26;
+    --pompeian-deep:#7c2a1a;
+    --ochre:#c68a2e;
+    --verdigris:#46644f;
+    --porpora:#5c1a45;
+    --rule: rgba(33,23,20,0.14);
+    --font-display:'Cinzel', 'Trajan Pro', Georgia, serif;
+    --font-body:'Fraunces', 'Iowan Old Style', Georgia, serif;
+    --font-mono:'IBM Plex Mono', 'SFMono-Regular', Menlo, monospace;
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--font-body);
+    -webkit-font-smoothing:antialiased;
+  }
+
+  h1,h2,h3{font-family:var(--font-display);font-weight:600;text-wrap:balance;margin:0;}
+  .eyebrow{
+    font-family:var(--font-mono);font-size:11px;letter-spacing:0.16em;text-transform:uppercase;
+    color:var(--pompeian);
+  }
+
+  .wrap{max-width:760px;margin:0 auto;padding:0 32px;}
+
+  header.cornice{border-bottom:1px solid var(--rule);padding:20px 0;}
+  header.cornice .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;}
+  .mark-small{display:flex;align-items:center;gap:10px;}
+  .mark-small svg{width:20px;height:22px;color:var(--pompeian);}
+  .mark-small span{font-family:var(--font-display);font-size:14px;letter-spacing:0.18em;}
+  .mark-small .for{font-family:var(--font-mono);font-size:11px;letter-spacing:0.1em;text-transform:uppercase;opacity:0.6;}
+
+  .hero{padding:64px 0 48px;}
+  .hero .tagline{font-family:var(--font-display);font-size:14px;letter-spacing:0.3em;color:var(--pompeian);margin:16px 0 20px;}
+  .hero h1{font-size:clamp(34px,6vw,52px);line-height:1.02;text-transform:uppercase;letter-spacing:0.03em;}
+  .hero p.lede{
+    font-family:var(--font-body);font-style:italic;font-size:20px;line-height:1.6;
+    max-width:56ch;margin-top:22px;color:var(--ink-soft);
+  }
+
+  section{padding:44px 0;border-top:1px solid var(--rule);}
+  section.no-rule{border-top:none;}
+  section h2{font-size:13px;letter-spacing:0.14em;text-transform:uppercase;color:var(--pompeian-deep);margin-bottom:18px;}
+
+  .mission-block{
+    background:var(--pompeian);color:var(--paper);
+    padding:40px 36px;
+    margin:0 -4px;
+  }
+  .mission-block .eyebrow{color:var(--ochre);}
+  .mission-block p{font-family:var(--font-body);font-style:italic;font-size:23px;line-height:1.55;margin-top:14px;}
+
+  .contrast{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--rule);border:1px solid var(--rule);}
+  .contrast > div{background:var(--paper);padding:22px 24px;}
+  .contrast .not{color:var(--ink-soft);}
+  .contrast .not::before{content:"NON ";font-family:var(--font-mono);font-size:11px;color:var(--ink-soft);opacity:0.55;letter-spacing:0.08em;display:block;margin-bottom:6px;}
+  .contrast .yes::before{content:"SÌ ";font-family:var(--font-mono);font-size:11px;color:var(--verdigris);opacity:0.85;letter-spacing:0.08em;display:block;margin-bottom:6px;}
+  .contrast p{font-family:var(--font-body);font-size:16px;line-height:1.5;margin:0;}
+
+  .blocks{display:flex;flex-direction:column;gap:1px;background:var(--rule);border:1px solid var(--rule);}
+  .block-row{background:var(--paper);padding:22px 26px;display:grid;grid-template-columns:150px 1fr;gap:24px;align-items:baseline;}
+  .block-row .name{font-family:var(--font-display);font-size:17px;letter-spacing:0.02em;}
+  .block-row .dur{display:block;font-family:var(--font-mono);font-size:11px;letter-spacing:0.08em;text-transform:uppercase;color:var(--pompeian);margin-top:6px;}
+  .block-row p{font-family:var(--font-body);font-size:16px;line-height:1.5;margin:0;color:var(--ink-soft);}
+  .block-row.premium{background:var(--porpora);}
+  .block-row.premium .name,.block-row.premium p{color:var(--paper);}
+  .block-row.premium .dur{color:var(--ochre);}
+
+  .catalog{display:grid;grid-template-columns:1fr 1fr;gap:32px 40px;}
+  .cat-group h3{font-family:var(--font-display);font-size:15px;letter-spacing:0.04em;margin-bottom:10px;color:var(--pompeian-deep);}
+  .cat-group ul{list-style:none;margin:0;padding:0;}
+  .cat-group li{
+    font-family:var(--font-body);font-size:16px;line-height:1.4;padding:8px 0;
+    border-top:1px solid var(--rule);
+  }
+  .cat-group li:first-of-type{border-top:none;}
+
+  .founders{display:grid;grid-template-columns:1fr 1fr;gap:32px;}
+  .founder .role{font-family:var(--font-mono);font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--pompeian);margin-bottom:8px;}
+  .founder h3{font-size:19px;margin-bottom:8px;}
+  .founder p{font-family:var(--font-body);font-size:15px;line-height:1.55;color:var(--ink-soft);margin:0;}
+
+  footer{border-top:1px solid var(--rule);padding:24px 0 48px;}
+  footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;}
+  footer .label{font-family:var(--font-mono);font-size:11px;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;}
+
+  @media print{
+    body{background:var(--paper);}
+    .mission-block,.block-row,.contrast > div,.cat-group,.founder,header.cornice,section{
+      break-inside:avoid;
+    }
+    section{padding:28px 0;}
+    .hero{padding:36px 0 28px;}
+  }
+
+  @media (max-width:600px){
+    .contrast{grid-template-columns:1fr;}
+    .block-row{grid-template-columns:1fr;gap:6px;}
+    .catalog{grid-template-columns:1fr;}
+    .founders{grid-template-columns:1fr;}
+  }
+</style>
+
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <g id="lyre-half">
+      <path d="M138,176 C168,150 172,85 148,50 C142,41 133,36 124,38" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"/>
+    </g>
+    <g id="lyre-strings">
+      <line x1="88" y1="46" x2="80" y2="176"/>
+      <line x1="94" y1="44" x2="90" y2="176"/>
+      <line x1="100" y1="43" x2="100" y2="176"/>
+      <line x1="106" y1="44" x2="110" y2="176"/>
+      <line x1="112" y1="46" x2="120" y2="176"/>
+    </g>
+    <g id="lyre-mark">
+      <use href="#lyre-half"/>
+      <use href="#lyre-half" transform="scale(-1,1) translate(-200,0)"/>
+      <rect x="76" y="34" width="48" height="9" rx="4.5" fill="currentColor"/>
+      <path d="M62,178 Q100,158 138,178 L132,206 Q100,218 68,206 Z" fill="currentColor" opacity="0.92"/>
+      <g stroke="currentColor" stroke-width="2" opacity="0.55"><use href="#lyre-strings"/></g>
+    </g>
+  </defs>
+</svg>
+
+<header class="cornice">
+  <div class="wrap">
+    <div class="mark-small">
+      <svg viewBox="0 0 200 220" role="img" aria-label="Simbolo Urbis"><use href="#lyre-mark"/></svg>
+      <span>URBIS</span>
+    </div>
+    <span class="for">Documento di visione</span>
+  </div>
+</header>
+
+<section class="hero no-rule">
+  <div class="wrap">
+    <span class="eyebrow">Servizi turistici ed esperienze a Roma</span>
+    <h1>Urbis</h1>
+    <div class="tagline">Vita da Romano</div>
+    <p class="lede">Non un altro tour di Roma. Un modo di far vivere ai visitatori la città come la vive davvero chi ci abita.</p>
+  </div>
+</section>
+
+<section class="no-rule">
+  <div class="wrap">
+    <div class="mission-block">
+      <span class="eyebrow">Mission</span>
+      <p>Urbis nasce per far vivere Roma come la vivono i romani: non l'ennesima lista di monumenti da spuntare, ma i luoghi e i momenti che fanno parte della vita quotidiana della città. Il bar sotto casa, il mercato di quartiere, l'aperitivo dove ci si ritrova davvero. I grandi monumenti restano, sullo sfondo del percorso, non spiegati ma vissuti.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Il posizionamento</h2>
+    <div class="contrast">
+      <div>
+        <p class="not">Colazione nel locale turistico davanti al monumento, prezzo doppio, tavolo riservato ai gruppi.</p>
+      </div>
+      <div>
+        <p class="yes">Cornetto e caffè al banco nel bar di quartiere. Si passa dal Pantheon come ci passa un romano, non in coda per entrare.</p>
+      </div>
+      <div>
+        <p class="not">Campo de' Fiori pieno di bancarelle per turisti.</p>
+      </div>
+      <div>
+        <p class="yes">Il mercato rionale vero. Si fa la spesa, poi si cucina insieme.</p>
+      </div>
+      <div>
+        <p class="not">La piazza da cartolina, aperitivo a prezzo turistico.</p>
+      </div>
+      <div>
+        <p class="yes">Il locale dove va un romano: Pigneto, San Lorenzo, Garbatella.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Come vendiamo: blocchi di tempo, non attività isolate</h2>
+    <p style="font-family:var(--font-body);font-size:16px;line-height:1.6;color:var(--ink-soft);margin:0 0 22px;">Non un listino di attività singole. Si vende un pezzo di giornata: un pomeriggio, una giornata intera, una serata, composto da più momenti che si susseguono come farebbe un romano.</p>
+    <div class="blocks">
+      <div class="block-row">
+        <div><span class="name">Mattina da Romano</span><span class="dur">da 2 a 2h30</span></div>
+        <p>Colazione al bar di quartiere, una passeggiata nei vicoli veri, magari il mercato. Il primo contatto con la città vera.</p>
+      </div>
+      <div class="block-row">
+        <div><span class="name">Pomeriggio da Romano</span><span class="dur">da 3 a 4h</span></div>
+        <p>Un mezzo iconico tra i quartieri (golf cart, Vespa o Fiat 500 d'epoca), più una tappa artigiana o fotografica, chiusura con un gelato o un aperitivo.</p>
+      </div>
+      <div class="block-row premium">
+        <div><span class="name">Giornata da Romano</span><span class="dur">Intera</span></div>
+        <p>Mattina, pranzo al mercato, pomeriggio con il mezzo iconico, serata di chiusura. Il formato di punta.</p>
+      </div>
+      <div class="block-row">
+        <div><span class="name">Serata da Romano</span><span class="dur">da 2 a 3h</span></div>
+        <p>Un giro tra i locali veri per l'aperitivo, una cena vera, magari un ultimo bicchiere: la sequenza di una serata romana autentica.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Il catalogo: i momenti con cui componiamo i blocchi</h2>
+    <div class="catalog">
+      <div class="cat-group">
+        <h3>Culinarie</h3>
+        <ul>
+          <li>Colazione al bar di quartiere</li>
+          <li>Mercato rionale, cucina insieme</li>
+          <li>Food tour tra le botteghe vere</li>
+          <li>Corso di pasta fresca, carbonara</li>
+          <li>Degustazione vini con un sommelier</li>
+          <li>Aperitivo dove va un romano</li>
+          <li>Cena da Antico Romano: un menù di piatti storici (garum, moretum, libum, mulsum) ricreati davvero</li>
+        </ul>
+      </div>
+      <div class="cat-group">
+        <h3>Mobilità e mezzi iconici</h3>
+        <ul>
+          <li>Passeggiata nei quartieri veri</li>
+          <li>Golf cart tra i quartieri</li>
+          <li>Vespa e sidecar</li>
+          <li>Fiat 500 d'epoca</li>
+          <li>Battello sul Tevere</li>
+          <li>E-bike serale</li>
+          <li>Photo tour con fotografo</li>
+        </ul>
+      </div>
+      <div class="cat-group">
+        <h3>Artigianato e musica</h3>
+        <ul>
+          <li>Laboratorio di ceramica</li>
+          <li>Corso di gelato artigianale</li>
+          <li>Musica dal vivo con un musicista romano</li>
+          <li>Lezione introduttiva di chitarra/flamenco</li>
+        </ul>
+      </div>
+      <div class="cat-group">
+        <h3>Famiglie e su misura</h3>
+        <ul>
+          <li>Caccia al tesoro nei quartieri storici</li>
+          <li>Esperienze private: compleanni, proposte, eventi</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span class="label">Urbis, documento di visione, settembre MMXXVI</span>
+    <span class="label">Bozza di lavoro</span>
+  </div>
+</footer>
