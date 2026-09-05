@@ -19,6 +19,7 @@ Un pomeriggio/giornata che combina più moduli in **un prezzo unico** è quasi p
 - Corso pasta fresca/cacio e pepe/carbonara. B, capex basso-medio.
 - Degustazione vini con sommelier partner. B, capex basso.
 - Aperitivo dove va un romano (Pigneto, San Lorenzo, Garbatella). B, capex bassissimo.
+- **Cena da Antico Romano**: un menù di piatti storici (garum, moretum, libum, mulsum, puls) ricreati davvero, non un ristorante a tema generico. Idea di Nikolai (settembre 2026). Tema diverso dal resto del catalogo ("Roma antica" invece di "Roma di oggi"), ma coerente: si vive un'esperienza sensoriale reale, non una spiegazione storica. B, capex basso in partnership con un locale che già fa cucina storica romana (da cercare e verificare, nessuno ancora identificato con certezza).
 
 **Mobilità — mezzi iconici**
 - Passeggiata nei quartieri veri, monumenti di passaggio. B.
@@ -37,6 +38,12 @@ Un pomeriggio/giornata che combina più moduli in **un prezzo unico** è quasi p
 
 **Famiglie**
 - Caccia al tesoro nei quartieri storici. B, capex basso.
+
+**Roma antica (filone a parte)**
+- Vestizione da legionario romano per foto: esiste un'attività di questo tipo vicino al Ghetto, nome e indirizzo esatti ancora da verificare (vedi conversazione del 5 settembre 2026). B, capex bassissimo in partnership.
+- Cena da Antico Romano: vedi sopra, sezione Culinari.
+
+Queste due insieme potrebbero comporre in futuro un blocco a sé, tipo "Giornata Roma Antica" (vestizione, più tappe a tema, cena storica), separato dai blocchi "vita da romano" di oggi. Idea da sviluppare, non ancora un prodotto.
 
 Su tutti i moduli con componente "racconto" (crawl, passeggiate): aneddoti brevi, mai narrazione storica strutturata — **niente "Cicerone"**, decisione già presa (vedi `CLAUDE.md`).
 
