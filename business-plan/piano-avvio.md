@@ -10,16 +10,21 @@ Stato: settembre 2026, pre-costituzione.
 - Prodotto core: esperienze turistiche a Roma, non tour guidati — golf cart come attività/mezzo, non veicolo per una guida d'arte/storia
 - Il cliente golf cart tours esistente di Nikolai resta **separato** da Urbis (non assorbito)
 
+## Deciso in più (aggiornamento)
+
+- **Lancio lean**: si parte sotto la partita IVA individuale di Valeria, non con una SRLS subito. Vedi `legale/accordo-soci-e-rischi.md` — rischio "società di fatto" da coprire con un accordo scritto tra Nikolai e Valeria prima del primo incasso.
+- **Ruoli**: Valeria = amministrazione/contabilità/comunicazione. Nikolai = gestione operativa delle esperienze.
+- **Valeria farà il corso da direttore tecnico di agenzia di viaggio e turismo** (~€1.800, Regione Lazio) — vedi `legale/agenzia-di-viaggio.md`. **Attenzione**: questo NON è a costo zero oltre al corso — serve verosimilmente una sede fisica con agibilità/idoneità igienico-sanitaria, una fideiussione (~€500–1.500/anno di premio), RC professionale. Da decidere consapevolmente se serve subito (vendita di pacchetti) o solo più avanti (se si parte con il solo golf cart come servizio singolo, basta la SCIA veicoli atipici, molto più leggera).
+
 ## Aperto — serve input da Nikolai/Valeria prima dei prossimi passi
 
-1. **Capitale sociale**: quanto versa ciascuno? Definisce le quote reali (SRLS = quote proporzionali ai conferimenti nello statuto standard).
-2. **Sede legale**: indirizzo a Roma (casa di uno dei due, o domiciliazione a pagamento).
-3. **Commercialista**: Nikolai ne ha già uno per Vinted/StreetSmart/SMM freelance? Riusarlo velocizza tutto — serve comunque uno che conosca turismo/ATECO specifico, non uno generico.
-4. **Ruoli operativi**: chi fa cosa tra Nikolai e Valeria (operations/mezzi, marketing/vendite, contabilità/admin, guida delle esperienze sul campo)?
-5. **Golf cart — comprare o noleggiare**: budget e scelta del fornitore (solo mezzi omologati L7e/M1, vedi `legale/golf-cart-normativa.md`).
-6. **Prime esperienze da lanciare**: solo golf cart, o anche altro (food, workshop, altro genere di "esperienza locale" — c'è overlap concettuale con Rasna/Blera, ma Urbis è Roma urbana)?
-7. **Timeline di lancio**: data obiettivo per la prima esperienza vendibile.
-8. **Canali di vendita**: sito proprio, GetYourGuide/Airbnb Experiences (come già per golf cart tours e Rasna), o entrambi?
+1. **Agenzia di viaggio: subito o dopo?** Decisione strategica — vedi `legale/agenzia-di-viaggio.md` per il confronto costi/benefici tra le due strade.
+2. **Capitale**: anche nel lancio lean, mettere in conto i costi reali che emergono sopra (corso, eventuale sede, fideiussione, contributi INPS gestione commercianti se scattano) — non è davvero zero.
+3. **Sede fisica**: se si va sull'agenzia di viaggio, serve un locale con planimetria/agibilità — dove?
+4. **Golf cart — comprare o noleggiare**: budget e scelta del fornitore (solo mezzi omologati L7e/M1, vedi `legale/golf-cart-normativa.md`).
+5. **Prime esperienze da lanciare**: solo golf cart, o anche altro?
+6. **Timeline di lancio**: data obiettivo per la prima esperienza vendibile.
+7. **Canali di vendita**: sito proprio, GetYourGuide/Airbnb Experiences (come già per golf cart tours e Rasna), o entrambi?
 
 ## Sequenza consigliata
 
