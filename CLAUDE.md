@@ -12,19 +12,17 @@ Ruoli decisi:
 
 Nikolai gestisce Urbis come business manager operativo — decisioni di prodotto, marketing, vendite, legale.
 
-## Scelta strategica di fondo
+## Posizionamento — "vita da romano"
 
-Urbis vende **esperienze**, non **tour guidati**. Non è un dettaglio di marketing: è la scelta che determina se serve o no l'abilitazione nazionale di guida turistica (Legge 190/2023 — esame nazionale, Elenco Nazionale Guide Turistiche, in vigore dal 2026).
+Il concetto centrale, deciso da Nikolai: **far vedere ai turisti dove vanno e cosa fanno davvero i romani, non le solite cose turistiche — con i monumenti visti di passaggio, non spiegati come destinazione.** Colazione al bar sotto casa invece che nel locale turistico, mercato rionale vero invece di Campo de' Fiori pieno di turisti, aperitivo dove va un romano (Pigneto, San Lorenzo, Garbatella) invece della piazza da cartolina. Il Colosseo o il Pantheon ci sono, ma di passaggio nel percorso reale, non al centro di una spiegazione.
 
-**La distinzione legale vera non è la parola usata nell'annuncio, è il contenuto dell'attività:**
-- **Guida turistica (riservata, serve abilitazione)** = illustrazione e interpretazione del valore storico/artistico/culturale del patrimonio (musei, siti, centro storico) durante una visita.
-- **Non riservato** = accompagnamento, logistica, guida del mezzo (golf cart), assistenza pratica, aneddoti generali — senza interpretazione strutturata del patrimonio culturale.
+Questo è il filo conduttore di **tutto** il catalogo (`business-plan/idee-esperienze.md`), non una categoria tra le altre — ogni esperienza va scritta e venduta con questa logica.
 
-Quindi: chiamare l'offerta "esperienza" e non "tour" non basta da solo. Quello che l'host dice e fa durante il giro deve restare dal lato "accompagnamento/attività", non diventare una lezione di storia dell'arte. Dettagli in `legale/costituzione-e-licenze.md`.
+**Doppio vantaggio, non solo di marketing:** questa impostazione è anche esattamente ciò che tiene Urbis fuori dalla riserva della guida turistica (Legge 190/2023 — esame nazionale, Elenco Nazionale Guide Turistiche). La riserva scatta sull'**illustrazione e interpretazione strutturata del patrimonio storico/artistico/culturale**; "vivere la routine di un romano" con i monumenti sullo sfondo è per natura accompagnamento/lifestyle, non una lezione di storia dell'arte. Chiamarla "esperienza" non basterebbe da sola (vedi `legale/costituzione-e-licenze.md`) — ma se il contenuto reale resta fedele a questo posizionamento, la distinzione regge davvero, non solo sulla carta.
 
 ## Prodotto (catalogo esperienze in definizione)
 
-Non solo golf cart: Urbis vende esperienze turistiche a Roma in generale (culinarie, sightseeing leggero, attività locali) — vedi `business-plan/idee-esperienze.md` per la lista di opzioni allo studio. Il golf cart resta un candidato forte (Nikolai ha esperienza diretta), come attività (guida del mezzo, itinerario, assistenza), non come tour guidato d'arte/storia.
+Non solo golf cart: Urbis vende esperienze "vita da romano" a Roma (culinarie, sightseeing leggero, attività locali) — vedi `business-plan/idee-esperienze.md` per la lista di opzioni allo studio, riscritta secondo questo posizionamento. Il golf cart resta un candidato forte (Nikolai ha esperienza diretta), riletto come giro nei quartieri veri che passa anche dai monumenti — non come tour guidato d'arte/storia.
 
 Il cliente esistente di golf cart tours di Nikolai (attività freelance separata, vedi repo `golf-cart-tours`) **non viene assorbito**: Urbis è un brand e un'attività nuova e distinta. Normativa golf cart specifica (SCIA, controlli GdF, omologazione veicoli) tenuta nel repo `golf-cart-tours` (`normativa-e-controlli.md`), perché riguarda anche quell'attività freelance, non solo Urbis — se/quando Urbis lancia un'esperienza in golf cart, consultare quel file.
 
