@@ -13,6 +13,10 @@ Stato: settembre 2026. Le decisioni operative di dettaglio ora vivono in `busine
 - Lancio immediato: tre moduli, prezzi, capitale, canale, settimana uno giorno per giorno, tutto deciso in `business-plan/piano-lancio-immediato.md`.
 - Il cliente golf cart tours esistente di Nikolai resta separato da Urbis, non assorbito.
 
+## In corso
+
+- Partnership con **The Voyager srl** (tour operator), prodotto **"Cart + Audioguide"** in costruzione con Valeria: vedi `business-plan/partnership-the-voyager.md` per lo stato e `legale/agenzia-di-viaggio.md` per l'analisi legale (audioguida vs guida turistica, ruolo fornitore vs organizzatore del pacchetto).
+
 ## Ancora aperto, non urgente per il lancio dei tre moduli
 
 - Corso da direttore tecnico di agenzia di viaggio per Valeria: quando iniziarlo esattamente (vedi `legale/agenzia-di-viaggio.md` per costi reali, non solo il corso).

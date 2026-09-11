@@ -31,3 +31,26 @@ Attenzione: questa strada **non è a capitale zero**, a differenza del percorso 
 - Se invece l'obiettivo da subito è vendere **esperienze multiple/pacchetti** (non solo golf cart, anche altri servizi combinati, magari con vendita anche di servizi di terzi), l'agenzia di viaggio è la scelta corretta e toglie l'ambiguità su guida-vs-esperienza per la parte di intermediazione — ma va messo in conto il costo reale (corso + locale + fideiussione + assicurazione), non solo "sito e marketing".
 
 Le due strade non si escludono: si può partire con la SCIA veicoli atipici per il prodotto golf cart, e prendere la licenza di agenzia più avanti quando/se si vuole allargare il catalogo. Vale la pena decidere consapevolmente, non di default perché "Valeria fa comunque il corso".
+
+## Audioguida vs guida turistica abilitata, e licenza agenzia: il caso "Cart + Audioguide" con The Voyager (settembre 2026)
+
+> ⚖️ A titolo informativo, non parere legale professionale. Prima di firmare qualunque accordo con The Voyager, far rivedere il contratto B2B da un avvocato/consulente esperto in diritto del turismo.
+
+Contesto: partnership avviata da Valeria con **The Voyager srl** (tour operator, Piazza del Viminale 17, Roma), prodotto in costruzione: golf cart + audioguida preregistrata fornita da The Voyager. Log completo in `business-plan/partnership-the-voyager.md`.
+
+**Sull'audioguida.** La riserva della Legge 190/2023 (vedi anche `legale/costituzione-e-licenze.md` §1) si aggancia a un'attività di illustrazione del patrimonio culturale "in forma di prestazione diretta e personale". Un'audioguida preregistrata che il cliente ascolta da solo (cuffie/app) non è una prestazione diretta e personale di nessuno: è un contenuto, non l'esercizio della professione da parte di una persona fisica presente, lo stesso principio per cui musei e siti archeologici (Colosseo, Musei Vaticani) noleggiano audioguide senza che questo richieda una guida abilitata per ogni visitatore. Questo **rafforza**, non solo conferma, il punto già scritto in `legale/costituzione-e-licenze.md` §1 ("audio pre-registrati... area più sicura della spiegazione dal vivo").
+
+**Condizione perché regga:** il conducente Urbis del golf cart non deve leggere o recitare lo script a voce al gruppo, né aggiungere una spiegazione strutturata parallela all'audioguida, il suo ruolo resta guida del mezzo e logistica, come già deciso per il modulo golf cart "puro" (`business-plan/idee-esperienze.md`). Se lo script finisce per essere raccontato dal vivo dall'host invece che ascoltato in autonomia dal cliente, si ricade nella stessa area grigia già mappata, indipendentemente da chi ha scritto il testo.
+
+**Sulla licenza di agenzia di viaggio.** Il Codice del Turismo (D.Lgs. 79/2011, Titolo VI, come modificato dal D.Lgs. 62/2018 in recepimento della Direttiva UE 2015/2302) qualifica come "pacchetto turistico" la combinazione di almeno due tipi di servizi turistici per lo stesso viaggio, e individua come **organizzatore** il soggetto che combina e vende (o offre in vendita) il pacchetto, direttamente o tramite un altro professionista. Un prodotto "golf cart + audioguida" venduto a prezzo unico è quasi certamente un pacchetto ai sensi del Codice.
+
+Punto chiave: **chi è l'organizzatore dipende da chi vende al cliente finale**, non da chi fornisce i singoli servizi. Se The Voyager vende il pacchetto al turista sotto il proprio nome/piattaforma/contratto, e Urbis fattura a The Voyager come fornitore B2B del solo modulo golf cart (prezzo wholesale, non prezzo al pubblico), l'onere di organizzatore (fondo di garanzia, informativa precontrattuale, responsabilità di corretta esecuzione) ricade su The Voyager, non su Urbis, e il problema mappato sopra in questo file (Valeria senza licenza propria) non si pone per questo prodotto specifico.
+
+**Non è automatico.** Tre condizioni devono reggere davvero, non solo sulla carta:
+1. Contratto scritto B2B tra Urbis e The Voyager (non solo scambio email) che definisca esplicitamente questo ruolo di fornitore, non di organizzatore o co-organizzatore.
+2. Nessun incasso diretto di Urbis dal turista per il pacchetto combinato: se Urbis incassa anche solo la parte cart, rischia di apparire come parte della vendita del pacchetto.
+3. Marchio e comunicazione coerenti: se Urbis pubblicizza il prodotto come proprio pacchetto invece che come "disponibile tramite The Voyager", il ruolo di semplice fornitore si indebolisce.
+
+**Cosa resta comunque necessario, indipendentemente da questo accordo:** l'assicurazione RC per la parte operativa del golf cart (già pianificata in `business-plan/piano-lancio-immediato.md`), e la questione SCIA/omologazione veicolo del golf cart (repo `golf-cart-tours`, `normativa-e-controlli.md`) restano temi separati, di responsabilità di Urbis come fornitore del servizio, indipendenti da chi vende il pacchetto finale.
+
+**Serve un professionista fisico prima di firmare** qualunque accordo con The Voyager: un avvocato o consulente esperto in diritto del turismo deve confermare (a) che la struttura fornitore/organizzatore regge davvero secondo il Codice del Turismo, non solo secondo questa lettura, (b) se la Regione Lazio ha una posizione specifica su questo scenario (fornitore di singolo servizio a un tour operator terzo già abilitato) oltre al testo generale della L.R. 13/2007 citato sopra.
