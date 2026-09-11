@@ -2,6 +2,10 @@
 
 Contesto per qualunque sessione (questa o una futura) che lavora su Urbis. Leggere prima di agire.
 
+## Nord Stella (obiettivo personale di Nikolai)
+
+Dichiarato direttamente da Nikolai il 2026-09-11: andare in pensione a 45 anni, raggiungere un patrimonio netto di 50.000.000 di dollari, stare con Giulia, vivere a Blera, in barca, o dove la vita porta, la libertà è il punto vero. Poter ristrutturare la casa di Giulia se lei lo desidera, e potersi prendere cura di lei. È un impegno concreto, e Urbis, come ogni altro progetto, è al servizio di questo obiettivo. Dichiarazione completa anche in `nikolaifissenko/Nikolai-Life-`.
+
 ## Cos'è
 
 Attività di servizi turistici ed esperienze a Roma, co-fondata da **Nikolai Fissenko Caballero** e **Valeria**. Stato: lancio lean in corso (settembre 2026) — si parte operativi sotto la partita IVA individuale di Valeria, **non** con una SRLS (che resta l'obiettivo quando l'attività sarà validata, vedi sotto).
