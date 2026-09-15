@@ -12,6 +12,7 @@ Stato: settembre 2026. Le decisioni operative di dettaglio ora vivono in `busine
 - Cosa si vende: blocchi di tempo (Mattina, Pomeriggio, Giornata, Serata da Romano) come obiettivo, moduli singoli come punto di partenza per il lancio, fino a quando la licenza di agenzia di viaggio non è pronta (vedi `business-plan/idee-esperienze.md` e `legale/agenzia-di-viaggio.md`).
 - Lancio immediato: tre moduli, prezzi, capitale, canale, settimana uno giorno per giorno, tutto deciso in `business-plan/piano-lancio-immediato.md`.
 - Il cliente golf cart tours esistente di Nikolai resta separato da Urbis, non assorbito.
+- Seconda linea di prodotto (settembre 2026): golf cart con narrazione storica strutturata (audioguida), appoggiata al tour operator Voyager, tenuta separata dal catalogo "vita da romano" (vedi `CLAUDE.md`, sezione dedicata, per i punti ancora aperti: Foro Romano da tagliare per ZTL, verifica ZTL sulle quattro tappe Roma Barocca, ruolo esatto di Voyager).
 
 ## Ancora aperto, non urgente per il lancio dei tre moduli
 

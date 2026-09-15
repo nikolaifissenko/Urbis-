@@ -45,6 +45,8 @@ Un pomeriggio/giornata che combina più moduli in **un prezzo unico** è quasi p
 
 Queste due insieme potrebbero comporre in futuro un blocco a sé, tipo "Giornata Roma Antica" (vestizione, più tappe a tema, cena storica), separato dai blocchi "vita da romano" di oggi. Idea da sviluppare, non ancora un prodotto.
 
+**Golf cart con narrazione (linea separata, non "vita da romano"):** deciso settembre 2026, Urbis lancia anche una linea di golf cart tour con audioguida storica strutturata, appoggiata al tour operator Voyager. Script già pronti per due pacchetti (Roma Antica: Colosseo, Foro Romano, Circo Massimo, Terme di Caracalla, Palatino; Roma Barocca e Pantheon: Pantheon, Trevi, Navona, Piazza di Spagna). Dettagli e punti aperti in `CLAUDE.md`. Questa linea non segue la regola "niente Cicerone" del resto del catalogo, proprio perché è tenuta fuori dal catalogo "vita da romano".
+
 Su tutti i moduli con componente "racconto" (crawl, passeggiate): aneddoti brevi, mai narrazione storica strutturata — **niente "Cicerone"**, decisione già presa (vedi `CLAUDE.md`).
 
 ## Blocchi vendibili — i prodotti reali

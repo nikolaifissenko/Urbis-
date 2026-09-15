@@ -32,6 +32,22 @@ Non solo golf cart: Urbis vende esperienze "vita da romano" a Roma (culinarie, s
 
 Il cliente esistente di golf cart tours di Nikolai (attività freelance separata, vedi repo `golf-cart-tours`) **non viene assorbito**: Urbis è un brand e un'attività nuova e distinta. Normativa golf cart specifica (SCIA, controlli GdF, omologazione veicoli) tenuta nel repo `golf-cart-tours` (`normativa-e-controlli.md`), perché riguarda anche quell'attività freelance, non solo Urbis — se/quando Urbis lancia un'esperienza in golf cart, consultare quel file.
 
+## Seconda linea di prodotto: golf cart con narrazione, partner Voyager
+
+Deciso (settembre 2026): Urbis mantiene "vita da romano" come asse centrale del catalogo, **e aggiunge in parallelo** una linea di golf cart tour con narrazione storica strutturata sui monumenti (audioguida, non guida dal vivo), appoggiata a un tour operator esterno chiamato Voyager. Questa è esplicitamente la linea "narrazione vera" che la sezione sul posizionamento sopra prevede come eccezione: **resta un prodotto separato, non va mescolato nel catalogo "vita da romano"** (comunicazione, pagina prodotto, brand secondario se serve).
+
+Distinzione importante da non perdere: il modulo golf cart già previsto in `business-plan/idee-esperienze.md` per i blocchi "vita da romano" resta "guida del mezzo, non narrazione" (M, zona grigia normativa SCIA). Questa seconda linea è un prodotto diverso: golf cart con audioguida strutturata monumento per monumento, pensato per il turista che vuole proprio quello, non per chi vuole vivere Roma come un romano.
+
+Materiale già pronto (script completi, non ancora salvati in questo repo, arrivati come upload in sessione settembre 2026):
+- **Pacchetto "Roma Antica"**: itinerario operativo golf cart (Colosseo, Palatino esterno, Circo Massimo, sosta libera, Terme di Caracalla esterno, 3 ore) + script audioguida completi (10 episodi adulti + 10 bambini) per Colosseo, Foro Romano, Circo Massimo, Terme di Caracalla, Palatino.
+- **Pacchetto "Roma Barocca e Pantheon"**: script audioguida completi (10 episodi adulti + 10 bambini) per Pantheon, Fontana di Trevi, Piazza Navona, Piazza di Spagna. Nessun itinerario operativo ancora verificato per queste quattro tappe.
+
+Punti aperti prima che questa linea sia vendibile così com'è:
+- **Foro Romano**: lo script esiste (10 episodi) ma l'itinerario operativo lo esclude dal percorso reale per limiti ZTL (permesso veicoli elettrici attuale non copre il tratto di Via dei Fori Imperiali). Va deciso se toglierlo dalla scheda prodotto del pacchetto Roma Antica o tenerlo come contenuto di riserva per quando/se il permesso cambia.
+- **ZTL centro storico per Roma Barocca**: Pantheon, Fontana di Trevi, Piazza Navona e Piazza di Spagna sono in gran parte zone pedonali. Va verificato se il golf cart può avvicinarsi fisicamente e legalmente a queste quattro tappe con il permesso ZTL attuale, prima di vendere il pacchetto.
+- **Ruolo esatto di Voyager**: da chiarire se Voyager fornisce la licenza di agenzia di viaggio (vendono loro il pacchetto, Urbis fa da fornitore operativo golf cart + audioguide) e/o un narratore/guida abilitato, e se Urbis vende comunque a proprio nome. Cambia chi si assume il rischio SCIA/ZTL/agenzia di viaggio (vedi `legale/agenzia-di-viaggio.md`) e se la linea soddisfa davvero la condizione "narratore abilitato esterno" richiesta sopra per l'eccezione narrazione vera (un tour operator partner non equivale automaticamente a quella condizione).
+- Errori minori da correggere negli script prima della produzione audio: incoerenza sulla data di completamento del Pantheon (118-125 d.C. contro 118-128 d.C. nello stesso pacchetto), errore di calcolo nel tempo di movimento dell'itinerario Roma Antica (35 minuti reali, non 45), incoerenza sull'uso dell'episodio 5 del Circo Massimo (obelisco) trattato come riserva in una tabella e come contenuto attivo nell'altra.
+
 ## Struttura giuridica — fase attuale vs obiettivo
 
 **Fase attuale (lancio lean, capitale ~zero):** si opera sotto la partita IVA individuale di Valeria, per non spendere in costituzione prima di aver validato la domanda. Attenzione: questo significa che **non c'è responsabilità limitata** — vedi `legale/accordo-soci-e-rischi.md`, è la parte più importante da capire prima di partire così.
