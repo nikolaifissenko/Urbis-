@@ -38,9 +38,10 @@ Deciso (settembre 2026): Urbis mantiene "vita da romano" come asse centrale del 
 
 Distinzione importante da non perdere: il modulo golf cart già previsto in `business-plan/idee-esperienze.md` per i blocchi "vita da romano" resta "guida del mezzo, non narrazione" (M, zona grigia normativa SCIA). Questa seconda linea è un prodotto diverso: golf cart con audioguida strutturata monumento per monumento, pensato per il turista che vuole proprio quello, non per chi vuole vivere Roma come un romano.
 
-Materiale già pronto (script completi, non ancora salvati in questo repo, arrivati come upload in sessione settembre 2026, mandati da Valeria):
-- Itinerario operativo golf cart (Colosseo, Palatino esterno, Circo Massimo, sosta libera, Terme di Caracalla esterno, 3 ore) + script audioguida completi (10 episodi adulti + 10 bambini) per Colosseo, Foro Romano, Circo Massimo, Terme di Caracalla, Palatino, Pantheon, Fontana di Trevi, Piazza Navona, Piazza di Spagna.
-- **Deciso (settembre 2026): un unico pacchetto**, non due separati "Roma Antica" e "Roma Barocca". Da qui in poi va disegnato un solo itinerario operativo che copra (o scelga tra) tutti e nove i monumenti, non due itinerari distinti. Nikolai ha già mandato questo punto a Valeria.
+Materiale pronto:
+- `golf-cart-narrato/script-roma-duemila-anni.md`: script unico e continuo (nove tappe, versione adulti), corretto e consegnato come PDF a Nikolai. Sostituisce i due pacchetti separati Roma Antica e Roma Barocca.
+- Script originali a episodi (10 adulti + 10 bambini per monumento, Colosseo, Foro Romano, Circo Massimo, Terme di Caracalla, Palatino, Pantheon, Fontana di Trevi, Piazza Navona, Piazza di Spagna) e itinerario operativo golf cart (Colosseo, Palatino esterno, Circo Massimo, sosta libera, Terme di Caracalla esterno, 3 ore): arrivati come upload in sessione settembre 2026 da Valeria, non salvati in repo. La versione bambini dei nove monumenti non è stata ancora fusa in un racconto unico.
+- **Deciso (settembre 2026): un unico pacchetto**, non due separati "Roma Antica" e "Roma Barocca". Resta da disegnare un solo itinerario operativo che copra (o scelga tra) tutti e nove i monumenti.
 
 **Ruolo di Voyager (confermato, settembre 2026): copre la licenza di agenzia di viaggio e le prenotazioni.** Questo risolve la parte di `legale/agenzia-di-viaggio.md` sulla necessità di licenza per vendere pacchetti turistici: per questa linea non serve la licenza propria di Valeria, ci pensa Voyager. Attenzione però, resta un punto distinto e non coperto da questo accordo: la licenza di agenzia di viaggio **non è la stessa cosa** dell'abilitazione guida turistica (Legge 190/2023, vedi `legale/agenzia-di-viaggio.md`), e Voyager non risulta fornire un narratore/guida abilitato. La linea si regge legalmente sul fatto che il contenuto è audioguida registrata ascoltata in autonomia dal cliente, non narrazione dal vivo di una persona: è questo, non l'accordo con Voyager, a tenerla fuori dalla riserva guida turistica. Va quindi verificato sul campo che l'accompagnatore sul golf cart si limiti a guidare il mezzo e non finisca per commentare o rispondere a domande sui contenuti storici in modo strutturato, altrimenti la linea scivola verso la stessa zona grigia che il posizionamento "vita da romano" è nato per evitare.
 
@@ -68,6 +69,7 @@ Punti aperti prima che questa linea sia vendibile così com'è:
 - `business-plan/idee-crescita.md` — idee su segmenti, canali e pacchetti oltre il catalogo base, da vagliare più avanti.
 - `brand/identita.md` — palette, tipografia, marchio (lira stilizzata) — link alla tavola completa pubblicata.
 - `brand/documento-visione.md` — documento condivisibile (mission, posizionamento, catalogo, senza prezzi) — link all'artifact, pensato per essere mandato a Valeria.
+- `golf-cart-narrato/script-roma-duemila-anni.md` — script audioguida unico per la linea golf cart con narrazione (partner Voyager), nove monumenti in un solo racconto continuo.
 
 ## Come lavorare su questo repo
 
